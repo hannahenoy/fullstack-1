@@ -1,4 +1,6 @@
-![Wedding Playlist](public/weddingplaylist.png)
+![Wedding Playlist
+(public/login.png)
+(public/weddingplaylist.png)
 
 
 ## Installation
