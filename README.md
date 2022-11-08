@@ -1,5 +1,5 @@
-![Wedding Login](public/login.png)
-![Wedding Playlist](public/weddingplaylist.png)
+<img src="https://i.postimg.cc/J00gSmDn/login.png">
+<img src="https://i.postimg.cc/766mZ9xt/weddingplaylist.png">
 
 
 ## Installation
